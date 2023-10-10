@@ -5,10 +5,10 @@ class DoorHubColors{
   static const Color primaryColor = Color(0xFFffffff);
   static const Color secondaryColor = Color(0xFF6759ff);
   static const Color scafoldColorLight = Color(0xFFf9f9f9);
-  static const Color scafoldColorDark = Color(0xFF382F5B);
+  static const Color scafoldColorDark = Color(0xFF191919);
   static const Color darkColor = Color(0xFF382F5B);
 
-  static const Color darkTextColor = Color(0xFF382F5B);
+  static const Color darkTextColor = Color(0xFF101820);
   static Color fadedTextColor = const Color(0xFFe8e8e8);
 
   static const List<Color> minorColors =[
